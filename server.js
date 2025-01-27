@@ -63,7 +63,3 @@ app.delete('/usuarios/:id', async (req, res) => {
 })
 app.listen(3000);
 
-/*
-atilla
-9P1KRNhDyE8WbaxJ
-*/
